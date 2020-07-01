@@ -1,0 +1,6 @@
+10:07:15.161 [main] ERROR org.apache.logging.log4j.Logger - This is error
+10:07:15.170 [main] FATAL org.apache.logging.log4j.Logger - This is fatal
+10:07:45.429 [main] ERROR org.apache.logging.log4j.Logger - This is error
+10:07:45.437 [main] FATAL org.apache.logging.log4j.Logger - This is fatal
+10:08:28.030 [main] ERROR org.apache.logging.log4j.Logger - This is error
+10:08:28.039 [main] FATAL org.apache.logging.log4j.Logger - This is fatal
